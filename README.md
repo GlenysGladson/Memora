@@ -18,29 +18,29 @@ samples, guidance on mobile development, and a full API reference.
 =======
 
 
-# [Project Name] 🎯
+# Memora 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Syntax Squad
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Glenys Gladson - GEC thrissur
+- Member 2: Dharshana K S - GEC thrissur
+- Member 3: Goury Unnikrishnan - GEC thrissur
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[[mention your project hosted project link here]](https://github.com/GlenysGladson/Memora)
 
 ### Project Description
-[2-3 lines about what your project does]
+Helps users to efficiently revise topics via flashcards.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Difficulty to recall topics of complex structure.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Helps to actively recall key topics of the subject making learning and memorisation easier.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -87,14 +87,15 @@ For Hardware:
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://drive.google.com/file/d/1WpuKBkQ6XEyL0JAijxxptRXd_3Xe-3qH/view?usp=drive_link
 
 # Build Photos
 ![Team](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
-*List out all components shown*
+https://drive.google.com/drive/folders/1NgciboqRQ3D8SlPK08RZ5MxKaDJyoMJc?usp=drive_link
+
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
@@ -104,16 +105,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1663csg4C76ArlhsMdDB-nzxFFgUvSpOC?usp=drive_link
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Glenys Gladson: Manual Mode UI and database,Integration
+- Dharshana K S: ChatBot AI,Integration
+- Goury Unnikrishnan: Sign-in and Login and its database,Integration
 
 ---
 Made with ❤️ at TinkerHub
